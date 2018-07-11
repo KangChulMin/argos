@@ -7,10 +7,10 @@
 			"email" : "ideaargo@codlabs.com"
 		}
 	],
-	"minimum-stability" : "dev",
-	"autoload": {
-	    "psr-4" : {
-    	    "ideaargo\\argolib\\" : "src"
-     	}
+	"minimum-stability" : "stable",
+	"autoload" : {
+		"psr-4" : {
+			"ideaargo\\argolib\\" : "src"
+		}
 	}
 }
