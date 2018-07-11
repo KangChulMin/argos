@@ -1,0 +1,16 @@
+{
+	"name" : "ideaargo/argolib",
+	"description" : "ideaargo php library",
+	"type" : "library",
+	"authors" : [{
+			"name" : "ideaargo",
+			"email" : "ideaargo@codlabs.com"
+		}
+	],
+	"minimum-stability" : "dev",
+	"autoload": {
+	    "psr-4" : {
+    	    "ideaargo\\argolib\\" : "src"
+     	}
+	}
+}
