@@ -8,9 +8,9 @@
 		}
 	],
 	"minimum-stability" : "dev",
-	"autoload": {
-	    "psr-4" : {
-    	    "ideaargo\\argolib\\" : "src"
-     	}
+	"autoload" : {
+		"psr-4" : {
+			"ideaargo\\argolib\\" : "src"
+		}
 	}
 }
