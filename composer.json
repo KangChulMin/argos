@@ -12,5 +12,8 @@
 		"psr-4" : {
 			"ideaargo\\argolib\\" : "src"
 		}
+	},
+	"require" : {
+		"phpunit/phpunit" : "~7.2"
 	}
 }
